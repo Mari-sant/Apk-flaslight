@@ -5,4 +5,5 @@ Desafio do dia: Construindo um aplicativo usando o sensor de movimento com React
 
 
 
-https://user-images.githubusercontent.com/98408681/170877790-e018fafd-3ebd-454b-80cd-c5b30e81e724.vd
+
+https://user-images.githubusercontent.com/98408681/170980927-23ecc179-b4f0-4159-a70e-84e3808bc1a4.mp4
